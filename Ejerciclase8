@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta name="author" content="Aqui mis datos" />
+ <meta charset="UTF-8">
+ <link rel="stylesheet" type="text/css" href="clas.CSS">
+ <title>Ejercicio </title>
+</head>
+<body>
+<div id="texto1">
+completemos con informacion personal. (real o ficticia)
+
+<p id="p_texto1">- Mi Nombre-</p>
+</div>
+<div id="imagen1">
+ <figure>
+   <img class="imagenes" src="img/imagen1.jpg" alt="YO">
+ </figure>
+</div>
+
+<div id="separacion">
+
+</div>
+
+<div id=""texto2">
+Informacion adicional.
+<p id="p_texto2">_ Hobbies</p>
+
+</div>
+
+<div id="imagen2">
+    <figure>
+        <img class="imagenes" src="img/imagen2.png" alt="">
+    </figure>
+
+</div>
